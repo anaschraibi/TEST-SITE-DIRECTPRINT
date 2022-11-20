@@ -29,7 +29,7 @@ class Myheader extends HTMLElement {
           <li class="nav-item active">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Acceuil <span class="sr-only">(current)</span></a> <div class="dropdown-menu" aria-labelledby="navbarDropdown"> 
 				<a class="dropdown-item" href="Index.html">Acceuil</a>
-				<a class="dropdown-item" href="Activites1.html">Activités</a>
+				<a class="dropdown-item" href="Activites.html">Activités</a>
 				<a class="dropdown-item" href="Studio.html">Le Studio</a>
               <a class="dropdown-item" href="Equipements.html">Les équipements</a>
               <a class="dropdown-item" href="Secteurs.html">Seteurs de la clientèle</a></div></li>
