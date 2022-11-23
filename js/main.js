@@ -59,7 +59,7 @@ class Myfooter extends HTMLElement {
 		this.innerHTML = `
 <footer class="text-center">
 <!-- Bar de pied -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark"><<a class="navbar-brand" href="index.html"><img class="rounded-circle" src="petit logoblc.webp" alt=""></a>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-bottom"><<a class="navbar-brand" href="index.html"><img class="rounded-circle" src="petit logoblc.webp" alt=""></a>
 	          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
 	          <div class="collapse navbar-collapse" id="navbarSupportedContent1">
 	            <ul class="navbar-nav mr-auto">
