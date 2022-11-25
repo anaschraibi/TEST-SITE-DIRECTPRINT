@@ -72,7 +72,7 @@ class Myfooter extends HTMLElement {
     </a></div>
     <div class="offset-xl-1 col-xl-2"><section><div class="col-xl-12"><a href="https://www.linkedin.com/company/directprint/?lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BUUQl9AWaRDy1rgO90UaT4Q%3D%3D"</a> <img class="rounded-circle" src="ACCEUIL/372102050_LINKEDIN_ICON_TRANSPARENT_400.gif" alt="">
 		      <a href="https://m.facebook.com/photo.php?fbid=760913185275198&id=100040695715276&set=a.760913158608534&eav=Afb9Tb43eJRaQfdCTd88MeGcbJ2CJRderzJhDp_Cpxy-lmBCn8jKUE58rsBfiYjo_1g&paipv=0&source=11&refid=17"</a><img class="rounded-circle" src="ACCEUIL/371907490_FACEBOOK_ICON_400.gif" alt="">
-		      <a href="https://www.instagram.com/directprint_ma/#"</a><img class="rounded-circle-insta align-content-end" src="ACCEUIL/371907300_INSTAGRAM_ICON_400.gif" alt=""></section></div></div>
+		      <a href="https://www.instagram.com/directprint_ma/#"</a><img class="rounded-circle-insta" src="ACCEUIL/371907300_INSTAGRAM_ICON_400.gif" alt=""></section></div></div>
 </footer>
 		`;
 		
