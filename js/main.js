@@ -36,7 +36,7 @@ class Myheader extends HTMLElement {
             <a class="nav-link dropdown-toggle" href="#"  role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Ateliers</a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown1">
               <a class="dropdown-item" href="Serigraphie.html">Sérigraphie</a>
-              <a class="dropdown-item" href="Decoupe.html">Découpe </a>
+              <a class="dropdown-item" href="decoupe.html">Découpe </a>
 				 <a class="dropdown-item" href="Embellissement.html">Embellissement</a>
 				<a class="dropdown-item" href="Reliure.html">Reliure</a></div>
 		  <li class="nav-item">
